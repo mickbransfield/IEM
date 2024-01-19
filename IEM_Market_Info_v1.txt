@@ -1,0 +1,435 @@
+Training_Test_Etc	Marked_ID	Years	Market_Code	Notes	Prospectus	Full_Title
+1	1	"[1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023] "	Prac_WTA	Practice Market		
+1	2	"[1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023] "	Prac_VS	Practice Market		
+1	3	"[1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023] "	Prac_Earnings	Practice Market		
+	4	[1998] 	Movie_ISK	Classroom Movie Markets; I Still Know What You Did Last Summer	https://iemweb.biz.uiowa.edu/iem_prospectus/movie-i-still-know-what-you-did-last-summer/	Movie: I Still Know What You Did Last Summer
+	5	[1998] 	Movie_EOS	Classroom Movie Markets; Enemy of the State	https://iemweb.biz.uiowa.edu/iem_prospectus/movie-enemy-of-the-state/	Movie: Enemy of the State
+	6	[1999] 	Hessen_99	German Election Markets Workgroup; Election market for the Hesse state election '99	https://web.archive.org/web/19990420032623/http://www.vwl.uni-essen.de/dt/wipol/WAHLMARKt/all_inf.htm	
+	7	"[1999, 2000, 2001, 2002, 2003, 2004, 2005] "	Comp_Ret	Classroom Market	https://web.archive.org/web/20000310080610/http://www.biz.uiowa.edu/iem/markets/pr_compu.html	Computer Industry Returns Market
+	8	"[1999, 2000, 2001, 2002, 2003, 2004, 2005] "	MSFT_Price	Classroom Market	https://web.archive.org/web/20000324222940/http://www.biz.uiowa.edu/iem/markets/pr_msft.html#Note1	MSFT (MICROSOFT) PRICE LEVEL MARKET WINNER-TAKES-ALL CONTRACTS
+1	9					
+	10	[1999] 	Congress00	2000 Congressional Control 	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-congressional-control-market/	2000 Congressional Control Market
+	11	[1999] 	FranceEU99	LAEP; French European Parliamentary Election 1999	https://web.archive.org/web/20010210224253/http://panoramix.univ-paris1.fr/LAEP/IEM/prospectus.htm	"Présentation du marché électronique 
+des élections européennes de juin 1999"
+	12	[1999] 	Movie_MAT	Classroom Movie Markets; The Matrix	https://iemweb.biz.uiowa.edu/iem_prospectus/movie-box-office-the-matrix/	Movie Box Office: The Matrix
+	13	[1999] 	Movie_TTI	Classroom Movie Markets;  10 Things I Hate About You	https://iemweb.biz.uiowa.edu/iem_prospectus/movie-box-office-10-things-i-hate-about-you/	Movie Box Office: 10 Things I Hate About You
+	14	[1999] 	GermanyEU99	German Election Markets Workgroup; German European Parliamentary Election 1999		
+	15	[1999] 	EPparties99	German Election Markets Workgroup; Coalitions of national members in the EP Election 1999		
+	16	"[1999, 2000] "	RCONV00	2000 Republican National Convention	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-republican-national-convention/	2000 Republican National Convention
+	17	"[1999, 2000] "	DCONV00	2000 Democratic National Convention	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-democratic-national-convention/	2000 Democratic National Convention
+	18	"[1999, 2000] "	NYSENATE	2000 US Senate Election in New York	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-us-senate-election-in-new-york/	2000 US Senate Election in New York
+	19	[1999] 	Saxony_99	"German Election Markets Workgroup; Saxony state election, September 19, 1999"		
+	20	"[1999, 2000, 2001] "	FedPolicy	Academic only; FedPolicy closed 9/30/01. Replaced 10/3/01 by FedPolicyB with revised treatment of inter-meeting rate changes and broader trader access.	https://web.archive.org/web/20020111234418/http://www.biz.uiowa.edu/iem/markets/pr_FedPolicy.html	Federal Reserve Monetary Policy Market
+	21	[1999] 	Movie_SH	Classroom Movie Markets; Sleepy Hollow	https://iemweb.biz.uiowa.edu/iem_prospectus/sleepy-hollow-fall-1999/	Sleepy Hollow (Fall 1999)
+	22	[1999] 	Movie_WINE	Classroom Movie Markets; The World is Not Enough (James Bond)	https://iemweb.biz.uiowa.edu/iem_prospectus/the-world-is-not-enough-fall-1999/	The World Is Not Enough (Fall 1999)
+	23	[2000] 	TAIWAN_VS	Taiwan Presidential Election VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-presidential-election-in-taiwan-vote-share-market/	"2000 Presidential Election in Taiwan, Vote Share Market"
+1	24		 InactiveTrader	Inactive Trader		
+	25	[2000] 	PRES00_VS	2000 U.S.Presidential VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-u-s-presidential-vote-share/	2000 U.S.Presidential Vote Share
+	26	[2000] 	REFORM00	2000 Reform Party National Convention	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-reform-party-national-convention/	2000 Reform Party National Convention
+	27	[2000] 	TAIWAN_W	Taiwan Presidential Election 	https://web.archive.org/web/20000614071856/http://www.biz.uiowa.edu/iem/markets/pr_taiwan_W.html	"2000 Presidential Election in Taiwan 
+Winner Market"
+	28	[2000] 	Vors_CDU	"German Election Markets Workgroup; Election for CDU chairmanship, April 10, 2000"	https://web.archive.org/web/20050122100142/http://www.tu-dresden.de:80/wwvwlgkw/DEM/Marketinfo%20CDUChairman.pdf	Selection of the New CDU chairman
+	29	[2000] 	PRES00_WTA	2000 U.S. Presidential Election WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-u-s-presidential-election-winner-takes-all-market/	2000 U.S. Presidential Election Winner-Takes-All Market
+	30	[2000] 	MX_VS	2000 Presidential Election in Mexico	https://iemweb.biz.uiowa.edu/iem_prospectus/2000-presidential-election-in-mexico-vote-share-market/	2000 Presidential Election in Mexico Vote Share Market
+	31	[2000] 	MX_Winner	2000 Presidential Election in Mexico; Inconsistent market codes; also listed as MX_WTA; https://web.archive.org/web/20000818084524/http://www.biz.uiowa.edu:80/iem/markets/pr_Mexico_W.html	https://web.archive.org/web/20020131061738/http://www.biz.uiowa.edu:80/iem/closed/pr_Mexico_W_sp.html	"2000 Presidential Election in Mexico
+Winner Market; Elección presidencial México 2000
+Mercado de ganador"
+	32	[2000] 	GInflation	Dresden Electronic Markets; German inflation rate WTA	https://web.archive.org/web/20010518072439/http://www.tu-dresden.de/wwvwlgkw/wahl_info_inf.htm	Inflationsrate
+	33	[2000] 	GRSpread	Dresden Electronic Markets; interest spread on German and Russian government bonds	https://web.archive.org/web/20010518042606/http://www.tu-dresden.de/wwvwlgkw/wahl_info_spread.htm	Renditespread
+	34	[2000] 	Movie_Grin	Classroom Movie Markets; Prospectus is blank	https://iemweb.biz.uiowa.edu/iem_prospectus/how-the-grinch-stole-christmas-movie-market/	How the Grinch Stole Christmas Movie Market
+	35	[2000] 	Movie_Six	Classroom Movie Markets; 	https://iemweb.biz.uiowa.edu/iem_prospectus/the-6th-day-movie-market/	The 6th Day Movie Market
+	36	[2001] 	Appointments	Bush Administration Appointments	https://iemweb.biz.uiowa.edu/iem_prospectus/bush-administration-appointments-market/	Bush Administration Appointments Market
+	37	"[2000, 2001] "	CAM_WTA	"May 13, 2001 Italian general election WTA"		"Elezioni della Camera dei Deputati Italiana 2001 Mercato ""Chi Vince Piglia Tutto"""
+1	38					
+1	39					
+1	40					
+	41	[2001] 	CAM_VS	"May 13, 2001 Italian general election VS"		"Elezioni della Camera dei Deputati Italiana 2001, Proporzione di voti"
+1	42	[2001] 	MA_dk_hit	Contracts are names of Danish musicians; no trading activity		
+	43	[2001] 	FVparti	2001 Danish Parliamentary Elections - Party VS	https://web.archive.org/web/20010731070548fw_/http://www.ub.econ.au.dk/markeder/stemmeandel.htm	De politiske partiers stemmeandel
+1	44	[2001] 	Prac_Call	Practice Market		
+	45	[2001] 	MSFT-Price			
+	46	[2001] 	MSFTPrice			
+	47	[2001] 	FVdate	2001 Danish Parliamentary Elections - Date of holding next election	https://web.archive.org/web/20010730044145fw_/http://www.ub.econ.au.dk/markeder/valgdato.htm	Dato for afholdelse af næste folketingsvalg
+	48	[2001] 	Comp-Ret			
+	49	[2001] 	CompRet			
+	50	[2001] 	FVprime	2001 Danish Parliamentary Elections - Prime Minister	https://web.archive.org/web/20011229081608fw_/http://www.ub.econ.au.dk/markeder/statsminister.htm	Statsminister efter næste folketingsvalg
+	51	"[2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023] "	FedPolicyB	Successor market to FedPolicy (ID #20)	https://iemweb.biz.uiowa.edu/iem_prospectus/federal-reserve-monetary-policy-market-b/	FEDERAL RESERVE MONETARY POLICY MARKET B
+	52	[2001] 	NYCMAYOR	2001 Mayoral Election in New York City	https://iemweb.biz.uiowa.edu/iem_prospectus/2001-mayoral-election-in-new-york-city/	2001 Mayoral Election in New York City
+	53	[2001] 	Movie_HPS	Classroom Movie Markets; Harry Potter and the Sorcerer's Stone	https://iemweb.biz.uiowa.edu/iem_prospectus/box-office-receipts-harry-potter-i/	Box Office Receipts-Harry Potter I
+	54	[2001] 	Movie_MINC	Classroom Movie Markets;	https://iemweb.biz.uiowa.edu/iem_prospectus/box-office-receipts-monsters-inc/	Box Office Receipts-Monsters Inc.
+	55	"[2001, 2002] "	NLPres	PAM		
+	56	[2002] 	NLPremier	PAM	https://web.archive.org/web/20020210212206/http://www.volkskrant.nl/1011078812310.html	"2002 Tweede Kamerverkiezingen 
+Winner-Takes-All Market"
+	57	[2002] 	NLTweedeKamer	PAM	https://web.archive.org/web/20020414195333/http://www.volkskrant.nl/1011078926738.html	"2002 Tweede Kamerverkiezingen 
+Relatieve markt"
+	58	[2002] 	NLCoalitie	PAM		
+	59	[2002] 	Cong02	Prospectus seems to be for another market	https://iemweb.biz.uiowa.edu/iem_prospectus/2002-congressional-control-market/	2002 Congressional Control Market
+	60	"[2002, 2003] "	NLTK03	PAM		
+	61	"[2002, 2003] "	NLPvdA	PAM		
+	62	[2002] 	Movie_Die	Classroom Movie Markets;	https://iemweb.biz.uiowa.edu/iem_prospectus/die-another-day-movie-market/	Die Another Day Movie Market
+	63	"[2002, 2003] "	NLCoalitie03	PAM		
+	64	"[2002, 2003] "	NLPremier03	PAM		
+	65	[2003] 	Movie_Sun	Classroom Movie Markets; Tears of the Sun	https://iemweb.biz.uiowa.edu/iem_prospectus/tears-of-the-sum-movie-box-office-market/	Tears of the Sum Movie Box Office Market
+	66	"[2003, 2004] "	Pres04_VS	2004 Presidential Election VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2004-presidential-election-vote-share-market/	2004 Presidential Election Vote Share Market
+	67	"[2003, 2004] "	DConv04	2004 Democratic National Convention	https://iemweb.biz.uiowa.edu/iem_prospectus/2004-democratic-national-convention-nomination-market/	2004 Democratic National Convention Nomination Market
+	68	[2003] 	RECALL_1	2003 CALIFORNIA GOVERNOR RECALL BALLOT 1	https://iemweb.biz.uiowa.edu/iem_prospectus/2003-california-governor-recall-ballot-1-market/	2003 CALIFORNIA GOVERNOR RECALL BALLOT 1 MARKET
+	69	[2003] 	RECALL_2	2003 CALIFORNIA GOVERNOR RECALL BALLOT 2	https://iemweb.biz.uiowa.edu/iem_prospectus/2003-california-governor-recall-ballot-2-market/	2003 CALIFORNIA GOVERNOR RECALL BALLOT 2 MARKET
+	70	[2003] 	Movie_Cat	Classroom Movie Markets; Cat in the Hat 	https://iemweb.biz.uiowa.edu/iem_prospectus/cat-in-the-hat-movie-box-office-market/	Cat in the Hat Movie Box Office Market
+1	71		Prac_FLU	Practice Market		
+	72	[2004] 	FLU_wk03_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20040218010917/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2003-04.html	2003-2004 IOWA INFLUENZA MARKETS
+	73	[2004] 	FLU_wk05_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20040218010917/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2003-04.html	2003-2004 IOWA INFLUENZA MARKETS
+	74	[2004] 	FLU_wk07_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20040218010917/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2003-04.html	2003-2004 IOWA INFLUENZA MARKETS
+	75	[2004] 	FLU_wk09_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20040218010917/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2003-04.html	2003-2004 IOWA INFLUENZA MARKETS
+	76	[2004] 	FLU_wk11_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20040218010917/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2003-04.html	2003-2004 IOWA INFLUENZA MARKETS
+	77	[2004] 	FLU_wk13_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20040218010917/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2003-04.html	2003-2004 IOWA INFLUENZA MARKETS
+	78	[2004] 	Pres04_WTA	2004 U.S. Presidential WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2004-u-s-presidential-winner-takes-all-market/	2004 U.S. Presidential Winner Takes All Market
+	79	[2004] 	Congress04	2004 Congressional Control	https://iemweb.biz.uiowa.edu/iem_prospectus/2004-congressional-control-market/	2004 Congressional Control Market
+	80	[2004] 	House04	2004 US House Control	https://iemweb.biz.uiowa.edu/iem_prospectus/2004-us-house-control-market/	2004 US House Control Market
+	81	[2004] 	Senate04	2004 US Senate Control	https://iemweb.biz.uiowa.edu/iem_prospectus/2004-us-senate-control-market/	2004 US Senate Control Market
+	82	[2004] 	GOOGLE_LIN	Google IPO	https://web.archive.org/web/20040808050628/http://www.biz.uiowa.edu/iem/markets/pr_google_lin.html	Google IPO Market Capitalization Linear Market
+	83	[2004] 	GOOGLE_WTA	Google IPO	https://web.archive.org/web/20040808050656/http://www.biz.uiowa.edu/iem/markets/pr_GOOGLE_WTA.html	Google IPO Market Capitalization Winner-Takes-All Market
+	84	[2004] 	FLU_wk40_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	85	[2004] 	FLU_wk42_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	86	[2004] 	FLU_wk44_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	87	[2004] 	FLU_wk46_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	88	[2004] 	FLU_wk48_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	89	[2004] 	FLU_wk50_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	90	[2004] 	Movie_SBob	Classroom Movie Markets; 	https://iemweb.biz.uiowa.edu/iem_prospectus/spongebob-squarepants-movie-market/	SpongeBob SquarePants Movie Market
+	91	"[2004, 2005] "	FLU_wk52_04	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	92	"[2004, 2005] "	FLU_wk02_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	93	"[2004, 2005] "	FLU_wk04_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	94	"[2004, 2005] "	FLU_wk06_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	95	[2005] 	FLU_wk08_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	96	[2005] 	FLU_wk10_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	97	[2005] 	FLU_wk12_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	98	[2005] 	FLU_wk14_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+	99	[2005] 	FLU_wk16_05	Invite only; Iowa medical community & influenza experts	https://web.archive.org/web/20041029075309/http://iemweb.biz.uiowa.edu/OUTBREAK/PR_Flu_2004-05.html	2004-2005 IOWA INFLUENZA MARKETS
+1	100		Prac_HFM	Practice Market		
+	101	[2005] 	HFM_Irene	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	102	[2005] 	HFM_Katrina	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	103	[2005] 	HFM_Kat_Gulf	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	104	[2005] 	HFM_Maria	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	105	[2005] 	HFM_Nate	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	106	[2005] 	HFM_Ophelia	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	107	[2005] 	HFM_Philippe	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	108	[2005] 	HFM_Rit	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	109	[2005] 	FLU_wk40_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	110	[2005] 	FLU_wk41_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	111	[2005] 	FLU_wk42_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	112	[2005] 	FLU_wk43_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	113	[2005] 	FLU_wk44_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	114	[2005] 	FLU_wk45_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	115	[2005] 	HFM_Stn	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	116	[2005] 	HFM_Tam	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	117	[2005] 	FLU_wk46_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	118	[2005] 	FLU_wk47_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	119	[2005] 	HFM_Wilma	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	120	[2005] 	FLU_wk48_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	121	[2005] 	HFM_Beta	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	122	[2005] 	FLU_wk49_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	123	[2005] 	FLU_wk50_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	124	[2005] 	FLU_wk51_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	125	[2005] 	FLU_wk52_05	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	126	[2005] 	HFM_Gamma	Hurricane Futures Market; Invite only	https://web.archive.org/web/20051210222010/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	127	"[2005, 2006] "	FLU_wk01_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	128	"[2005, 2006] "	FLU_wk02_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	129	"[2005, 2006] "	FLU_wk03_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	130	"[2005, 2006] "	FLU_wk04_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	131	"[2005, 2006] "	FLU_wk05_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	132	"[2005, 2006] "	FLU_wk06_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	133	[2006] 	FLU_wk07_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	134	[2006] 	FLU_wk08_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	135	[2006] 	FLU_wk09_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	136	[2006] 	FLU_wk10_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	137	[2006] 	FLU_wk11_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	138	[2006] 	FLU_wk12_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	139	[2006] 	FLU_wk13_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	140	[2006] 	FLU_wk14_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	141	[2006] 	FLU_wk15_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	142	[2006] 	FLU_wk16_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+	143	[2006] 	FLU_wk17_06	Invite only; members of the Iowa medical community and others who may have particular expertise with influenza.	https://web.archive.org/web/20051113113741/http://fluprediction.uiowa.edu/prospectus.html	2005-2006 Iowa Influenza Markets
+1	144		SuspendedAccnts	Suspended Account		
+	145	[2006] 	CONGRESS06	2006 Congressional Control	https://iemweb.biz.uiowa.edu/iem_prospectus/2006-congressional-control-market/	2006 Congressional Control Market
+	146	[2006] 	HOUSE06	2006 US House Control	https://iemweb.biz.uiowa.edu/iem_prospectus/2006-us-house-control-market/	2006 US House Control Market
+	147	[2006] 	SENATE06	2006 US Senate Control	https://iemweb.biz.uiowa.edu/iem_prospectus/2006-us-senate-control-market/	2006 US Senate Control market
+	148	"[2006, 2007, 2008] "	PRES08_VS	2008 US Presidential Election VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-us-presidential-vote-share-market/	2008 US Presidential Vote Share Market
+	149	"[2006, 2007, 2008] "	PRES08_WTA	2008 US Presidential Election WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-us-presidential-election-winner-takes-all-market/	2008 US Presidential Election Winner-Takes-All Market
+	150	[2006] 	HFM_Ber	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	151	[2006] 	HFM_Chr	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	152	[2006] 	HFM_Deb	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	153	[2006] 	HFM_Ern	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	154	[2006] 	HFM_Flo	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Florence
+	155	[2006] 	HFM_Gor	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Gordon
+	156	[2006] 	HFM_Hel	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Helene
+	157	[2006] 	HFM_Isa	Hurricane Futures Market; Invite only	https://web.archive.org/web/20070422172201/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	
+	158	[2006] 	IAFLU_WK42_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	159	[2006] 	IAFLU_WK43_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	160	[2006] 	IAFLU_WK44_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	161	[2006] 	IAFLU_WK45_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	162	[2006] 	IAFLU_WK46_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	163	[2006] 	IAFLU_WK47_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	164	[2006] 	IAFLU_WK48_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	165	[2006] 	IAFLU_WK49_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	166	[2006] 	NCFLU_WK44_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	167	[2006] 	NCFLU_WK45_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	168	[2006] 	NCFLU_WK46_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	169	[2006] 	NCFLU_WK47_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	170	[2006] 	NCFLU_WK48_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	171	[2006] 	NCFLU_WK49_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	172	[2006] 	Movie_HFet	Happy Feet	https://web.archive.org/web/20070209013127/http://www.biz.uiowa.edu/iem/markets/pr_movie_HFet.html	"Happy Feet Box Office
+Winner-Takes-All Market"
+	173	[2006] 	Movie_Font	The Fountain	https://web.archive.org/web/20061214000904/http://www.biz.uiowa.edu:80/iem/markets/pr_Movie_Font.html	"The Fountain Box Office
+Winner-Takes-All Market"
+	174	[2006] 	IAFLU_WK50_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	175	[2006] 	NCFLU_WK50_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	176	[2006] 	IAFLU_WK51_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	177	[2006] 	NCFLU_WK51_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	178	[2006] 	IAFLU_WK52_06	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	179	[2006] 	NCFLU_WK52_06	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	180	"[2006, 2007] "	IAFLU_WK01_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	181	"[2006, 2007] "	NCFLU_WK01_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	182	"[2006, 2007] "	IAFLU_WK02_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	183	"[2006, 2007] "	NCFLU_WK02_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	184	"[2006, 2007] "	IAFLU_WK03_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	185	"[2006, 2007] "	NCFLU_WK03_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	186	"[2006, 2007] "	FVE_06-07	Flu Vaccine	https://web.archive.org/web/20070831122625/http://fluprediction.uiowa.edu/fluhome/Market_FluVaccine.html	2006-07 Influenza Vaccine Effectiveness Market
+	187	"[2006, 2007] "	IAFLU_WK04_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	188	"[2006, 2007] "	NCFLU_WK04_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	189	"[2006, 2007] "	IAFLU_WK05_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	190	"[2006, 2007] "	NCFLU_WK05_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	191	"[2006, 2007] "	IAFLU_WK06_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	192	"[2006, 2007] "	NCFLU_WK06_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	193	[2007] 	IAFLU_WK07_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	194	[2007] 	NCFLU_WK07_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	195	[2007] 	IAFLU_WK08_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	196	[2007] 	NCFLU_WK08_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	197	"[2007, 2008, 2009] "	AFPolicy	Invite only; limited to medical community & ProMED Mail; Avian Influenza policy	https://web.archive.org/web/20100709020703/http://fluprediction.uiowa.edu/fluhome/AvianFlu_prospectus.html	Avian Flu Policy
+	198	[2007] 	IAFLU_WK09_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	199	[2007] 	NCFLU_WK09_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	200	[2007] 	IAFLU_WK10_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	201	[2007] 	NCFLU_WK10_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	202	[2007] 	IAFLU_WK11_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	203	[2007] 	NCFLU_WK11_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	204	[2007] 	IAFLU_WK12_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	205	[2007] 	NCFLU_WK12_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	206	[2007] 	AFHumNum	Invite only; limited to medical community & ProMED Mail; number of human cases of H5N1 Avian Influenza	https://web.archive.org/web/20100709020703/http://fluprediction.uiowa.edu/fluhome/AvianFlu_prospectus.html	Avian Flu Human Numbers
+	207	[2007] 	AFHumLoc	Invite only; limited to medical community & ProMED Mail; location of human cases of H5N1 Avian Influenza	https://web.archive.org/web/20100709020703/http://fluprediction.uiowa.edu/fluhome/AvianFlu_prospectus.html	Avian Flu Human Location
+	208	[2007] 	AFAnimal	Invite only; limited to medical community & ProMED Mail; spread of H5N1 Avian Influenza among the bird an animal poplulation	https://web.archive.org/web/20100709020703/http://fluprediction.uiowa.edu/fluhome/AvianFlu_prospectus.html	Avian Flu Animals
+	209	[2007] 	IAFLU_WK13_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	210	[2007] 	NCFLU_WK13_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	211	[2007] 	Movie_THRE	open to all traders; 300 movie	https://web.archive.org/web/20071016074033/http://www.biz.uiowa.edu/iem/markets/pr_Movie_THRE.html	300 Movie Box Office Market
+	212	[2007] 	IAFLU_WK14_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	213	[2007] 	NCFLU_WK14_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	214	[2007] 	DConv08	2008 Democratic Nomination WTA	https://web.archive.org/web/20071012194721/http://www.biz.uiowa.edu/iem/markets/pr_dconv08.html	2008 Democratic Nomination Winner-Takes-All Market
+	215	[2007] 	RConv08	2008 Republican Nomination WTA	https://web.archive.org/web/20071013194632/http://www.biz.uiowa.edu/iem/markets/pr_RConv08.html	2008 Republican Nomination Winner-Takes-All Market
+	216	[2007] 	IAFLU_WK15_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	217	[2007] 	NCFLU_WK15_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	218	[2007] 	IAFLU_WK16_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	219	[2007] 	NCFLU_WK16_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	220	[2007] 	IAFLU_WK17_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	221	[2007] 	NCFLU_WK17_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	222	[2007] 	IAFLU_WK18_07	Invite only; Health care workers with information about influenza in Iowa	https://web.archive.org/web/20070831133619/http://fluprediction.uiowa.edu/fluhome/Market_IAFluActivity.html	2006-07 Seasonal Influenza Activity in Iowa
+	223	[2007] 	NCFLU_WK18_07	Invite only; Health care workers with information about influenza in North Carolina	https://web.archive.org/web/20070831122620/http://fluprediction.uiowa.edu/fluhome/Market_NCFluActivity.html	2006-07 Seasonal Influenza Activity in North Carolina
+	224	[2007] 	PDPRIM_VS	2007 Philadelphia Democratic Mayoral Primary	https://web.archive.org/web/20070523101755/http://www.biz.uiowa.edu/iem/markets/pr_PDPRIM_VS.html	"2007 Philadelphia
+Democratic Mayoral Primary Election
+Vote Share Market"
+	225	[2007] 	PDPRIM_WTA	2007 Philadelphia Democratic Mayoral Primary	https://web.archive.org/web/20070523101810/http://www.biz.uiowa.edu/iem/markets/pr_PDPRIM_wta.html	"2007 Philadelphia
+Democratic Mayoral Primary Election
+Winner-Takes-All Market"
+	226	[2007] 	HFM_DEAN	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane ERIN
+	227	[2007] 	HFM_ERI	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane DEAN
+	228	[2007] 	HFM_FEL	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane FELIX
+	229	[2007] 	HFM_GAB	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Gabrielle
+	230	[2007] 	HFM_HUM	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Humberto
+	231	[2007] 	HFM_ING	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Ingrid
+	232	[2007] 	IAFLU_WK40	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	233	[2007] 	IAFLU_WK41	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	234	[2007] 	IAFLU_WK42	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	235	[2007] 	IAFLU_WK43	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	236	[2007] 	NCFLU_WK40	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	237	[2007] 	NCFLU_WK41	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	238	[2007] 	NCFLU_WK42	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	239	[2007] 	NCFLU_WK43	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	240	[2007] 	IAFLU_WK44	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	241	[2007] 	NCFLU_WK44	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	242	[2007] 	HFM_KAR	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Karen
+	243	[2007] 	IAFLU_WK45	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	244	[2007] 	NCFLU_WK45	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	245	[2007] 	NEFLU_WK40	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	246	[2007] 	NEFLU_WK41	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	247	[2007] 	IAFLU_WK46	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	248	[2007] 	NCFLU_WK46	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	249	[2007] 	IAFLU_WK47	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	250	[2007] 	NCFLU_WK47	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	251	[2007] 	NEFLU_WK42	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	252	[2007] 	NEFLU_WK43	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	253	[2007] 	NEFLU_WK44	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	254	[2007] 	NEFLU_WK45	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	255	[2007] 	NEFLU_WK46	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	256	[2007] 	NEFLU_WK47	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	257	[2007] 	IAFLU_WK48	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	258	[2007] 	NCFLU_WK48	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	259	[2007] 	NEFLU_WK48	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	260	[2007] 	IAFLU_WK49	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	261	[2007] 	NCFLU_WK49	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	262	[2007] 	NEFLU_WK49	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	263	"[2007, 2008] "	HFM_NOE	Hurricane Futures Market; Invite only	https://web.archive.org/web/20090909084406/http://iemweb.biz.uiowa.edu/hurricanes/HFM_prospectus.htm	Hurricane Noel
+	264	[2007] 	Movie_BEOW	Classroom market; Beowulf	https://web.archive.org/web/20080521135958/http://www.biz.uiowa.edu/iem/markets/pr_Movie_BEOW.html	Beowulf Movie Box Office Market
+	265	[2007] 	IAFLU_WK50	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	266	[2007] 	NCFLU_WK50	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	267	[2007] 	NEFLU_WK50	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	268	[2007] 	IAFLU_WK51	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	269	[2007] 	NCFLU_WK51	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	270	[2007] 	NEFLU_WK51	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	271	[2007] 	IAFLU_WK52	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	272	"[2007, 2008] "	IAFLU_WK01	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	273	[2007] 	NCFLU_WK52	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	274	"[2007, 2008] "	NCFLU_WK01	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	275	[2007] 	NEFLU_WK52	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	276	"[2007, 2008] "	NEFLU_WK01	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	277	"[2007, 2008] "	IAFLU_WK02	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	278	"[2007, 2008] "	NCFLU_WK02	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	279	"[2007, 2008] "	NEFLU_WK02	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	280	"[2007, 2008] "	IAFLU_WK03	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	281	"[2007, 2008] "	NCFLU_WK03	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	282	"[2007, 2008] "	NEFLU_WK03	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	283	"[2007, 2008] "	IAFLU_WK04	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	284	"[2007, 2008] "	NCFLU_WK04	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	285	"[2007, 2008] "	NEFLU_WK04	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	286	"[2007, 2008] "	FVE_07-08	Flu Vaccine	https://web.archive.org/web/20100709020608/http://fluprediction.uiowa.edu/fluhome/FVE_prospectus.html	2007-2008 Influenza Vaccine Effectiveness Market
+	287	"[2007, 2008] "	IAFLU_WK05	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	288	"[2007, 2008] "	NCFLU_WK05	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	289	"[2007, 2008] "	NEFLU_WK05	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	290	"[2007, 2008] "	IAFLU_WK06	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	291	"[2007, 2008] "	NCFLU_WK06	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	292	"[2007, 2008] "	NEFLU_WK06	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	293	[2008] 	IAFLU_WK07	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	294	[2008] 	NCFLU_WK07	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	295	[2008] 	NEFLU_WK07	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	296	[2008] 	IAFLU_WK08	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	297	[2008] 	NCFLU_WK08	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	298	[2008] 	NEFLU_WK08	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	299	[2008] 	IAFLU_WK09	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	300	[2008] 	NCFLU_WK09	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	301	[2008] 	NEFLU_WK09	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	302	[2008] 	IAFLU_WK10	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	303	[2008] 	NCFLU_WK10	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	304	[2008] 	NEFLU_WK10	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	305	[2008] 	IAFLU_WK11	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	306	[2008] 	NCFLU_WK11	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	307	[2008] 	NEFLU_WK11	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	308	[2008] 	IAFLU_WK12	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	309	[2008] 	NCFLU_WK12	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	310	[2008] 	NEFLU_WK12	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	311	[2008] 	IAFLU_WK13	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	312	[2008] 	NCFLU_WK13	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	313	[2008] 	NEFLU_WK13	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	314	[2008] 	IAFLU_WK14	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	315	[2008] 	NCFLU_WK14	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	316	[2008] 	NEFLU_WK14	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	317	[2008] 	IAFLU_WK15	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	318	[2008] 	NCFLU_WK15	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	319	[2008] 	NEFLU_WK15	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	320	[2008] 	IAFLU_WK16	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	321	[2008] 	NCFLU_WK16	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	322	[2008] 	NEFLU_WK16	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	323	[2008] 	IAFLU_WK17	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	324	[2008] 	NCFLU_WK17	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	325	[2008] 	NEFLU_WK17	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	326	[2008] 	SWmrsa2008	MRSA		
+	327	[2008] 	IAFLU_WK18	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	328	[2008] 	NCFLU_WK18	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	329	[2008] 	NEFLU_WK18	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	330	[2008] 	IAFLU_WK19	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	331	[2008] 	NCFLU_WK19	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	332	[2008] 	NEFLU_WK19	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	333	[2008] 	IAFLU_WK20	Invite only; closed to medical community	https://web.archive.org/web/20100709014625/http://fluprediction.uiowa.edu/fluhome/IAFlu_prospectus.html	2007-2008 Iowa Influenza Activity Market
+	334	[2008] 	NCFLU_WK20	Invite only; closed to medical community	https://web.archive.org/web/20100709023842/http://fluprediction.uiowa.edu/fluhome/NCFlu_prospectus.html	2007-2008 North Carolina Influenza Activity Market
+	335	[2008] 	NEFLU_WK20	Invite only; closed to medical community	https://web.archive.org/web/20100709014834/http://fluprediction.uiowa.edu/fluhome/NEFlu_prospectus.html	2007-2008 Nebraska Influenza Activity Market
+	336	[2008] 	MNSen08_VS	MinnPost.com partnership	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-Minnesota-U-S-Senate-Vote-Share-Market/	2008 Minnesota U.S. Senate Vote Share Market
+	337	[2008] 	MNSen08_WTA	MinnPost.com partnership	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-Minnesota-U-S-Senate-winner-takes-all-market/	2008 Minnesota U.S. Senate Winner-Takes-All Market
+	338	[2008] 	Congress08	2008 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-u-s-congressional-control-winner-takes-all-market/	2008 U.S. Congressional Control Winner-Takes-All Market
+	339	[2008] 	House08	2008 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-u-s-house-control-winner-takes-all-market/	2008 U.S. House Control Winner-Takes-All Market
+	340	[2008] 	Senate08	2008 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2008-u-s-senate-control-winner-takes-all-market/	2008 U.S. Senate Control Winner-Takes-All Market
+	341	[2008] 	Movie_Twlt	Twilight	https://web.archive.org/web/20081222163407/http://www.biz.uiowa.edu/iem/markets/Movie_Twlt.html	Twilight Movie Box Office Market
+	342	"[2009, 2010] "	UN_INT	Unemployment Rate	https://web.archive.org/web/20100323010701/http://www.biz.uiowa.edu/iem/markets/pr_UN_INT.html	Unemployment Rate Interval Market
+	343	"[2009, 2010] "	Congress10	2010 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2010-u-s-congressional-control-winner-takes-all-market/	2010 U.S Congressional Control Winner-Takes-All Market
+	344	"[2009, 2010] "	House10	2010 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2010-u-s-house-control-winner-takes-all-market/	2010 U.S. House Control Winner-Takes-All Market
+	345	"[2009, 2010] "	Senate10	2010 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2010-u-s-senate-control-winner-takes-all-market/	2010 U.S. Senate Control Winner-Takes-All Market
+	346	"[2009, 2010] "	CPI_WTA	Consumer Price Index WTA	https://web.archive.org/web/20100706215212/http://www.biz.uiowa.edu/iem/markets/pr_CPI_WTA.html	CPI Winner-Takes-All Interval Market
+	347	[2010] 	FLSen10_VS	2010 Florida U.S. Senate VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2010-florida-u-s-senate-vote-share-market/	2010 Florida U.S. Senate Vote Share Market
+	348	[2010] 	FLSen10_WTA	2010 Florida U.S. Senate WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2010-florida-u-s-senate-election-winner-takes-all-market/	2010 Florida U.S. Senate Election Winner-Takes-All Market
+	349	[2011] 	Movie_AdjB	Adjustment Bureau		
+	350	"[2011, 2012] "	PRES12_VS		https://iemweb.biz.uiowa.edu/iem_prospectus/2012-us-presidential-vote-share-market/	2012 US Presidential Vote Share Market
+	351	"[2011, 2012] "	PRES12_WTA		https://web.archive.org/web/20130530204210/http://tippie.uiowa.edu/iem/markets/pr_pres12_wta.html	2012 US Presidential Election Winner-Takes-All Market
+	352	"[2011, 2012] "	Congress12	2012 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2012-u-s-congressional-control-winner-takes-all-market/	2012 U.S. Congressional Control Winner-Takes-All Market
+	353	"[2011, 2012] "	House12	2012 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2012-u-s-house-control-winner-takes-all-market/	2012 U.S. House Control Winner-Takes-All Market
+	354	"[2011, 2012] "	Senate12	2012 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2012-u-s-senate-control-winner-takes-all-market/	2012 U.S. Senate Control Winner-Takes-All Market
+	355	"[2011, 2012] "	IACaucus12	Iowa Caucuses 2012	https://web.archive.org/web/20130530204221/http://tippie.uiowa.edu/iem/markets/pr_IACaucus12.html	2012 Iowa Caucus Market
+	356	"[2011, 2012] "	RCONV12		https://web.archive.org/web/20130530204224/http://tippie.uiowa.edu/iem/markets/pr_rconv12.html	2012 Republican Nomination Winner-Takes-All Market
+	357	"[2012, 2013, 2014] "	Congress14	2014 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2014-u-s-congressional-control-winner-takes-all-market/	2014 U.S. Congressional Control Winner-Takes-All Market
+	358	"[2012, 2013, 2014] "	House14	2014 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2014-u-s-house-control-winner-takes-all-market/	2014 U.S. House Control Winner-Takes-All Market
+	359	"[2012, 2013, 2014] "	Senate14	2014 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2014-u-s-senate-control-winner-takes-all-market/	2014 U.S. Senate Control Winner-Takes-All Market
+	360	"[2014, 2015, 2016] "	Congress16	2016 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2016-u-s-congressional-control-winner-takes-all-market/	2016 U.S.Congressional Control Winner-Takes-All Market
+	361	"[2014, 2015, 2016] "	PRES16_VS		https://web.archive.org/web/20160711014054/http://tippie.uiowa.edu/iem/markets/pr_pres16_vs.html	2016 US Presidential Vote Share Market
+	362	"[2014, 2015, 2016] "	Pres16_WTA		https://iemweb.biz.uiowa.edu/iem_prospectus/2016-us-presidential-election-winner-takes-all-market/	2016 US Presidential Election Winner-Takes-All Market
+	363	[2015]	Movie_50Sh	50 Shades of Grey; movie released delayed from 2014 to 15		
+	364	[2016] 	RCONV16	2016 Republican Convention WTA	https://web.archive.org/web/20160729084836/http://tippie.uiowa.edu/iem/markets/pr_rconv16.html	2016 Republican Convention Nomination Winner-Takes-All Market
+	365	[2016] 	DCONV16	2016 Democratic Convention WTA	https://web.archive.org/web/20160730221233/http://tippie.uiowa.edu/iem/markets/pr_DCONV16.html	2016 Democratic Convention Nomination Winner-Takes-All Market
+1	366		TAs1_3upgl	Test Market		
+	367	"[2016, 2017, 2018] "	Senate18	2018 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2018-u-s-senate-control-winner-takes-all-market/	2018 U.S. Senate Control Winner-Takes-All Market
+	368	"[2016, 2017, 2018] "	House18	2018 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2018-u-s-house-control-winner-takes-all-market/	2018 U.S. House Control Winner-Takes-All Market
+	369	"[2016, 2017, 2018] "	Congress18	2018 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2018-u-s-congressional-control-winner-takes-all-market/	2018 U.S.Congressional Control Winner-Takes-All Market
+1	370		TAs1_9pkc7	Test Market		
+1	371		TAs1_m0nhe	Test Market		
+1	372		TAs1_h36tm	Test Market		
+1	373		TAs2_vbq3o	Test Market		
+1	374		TAs1_8negg	Test Market		
+	375	[2017] 	Movie_Coco	Coco		
+1	376		TAs1_ijb6e	Test Market		
+	377	"[2017, 2018] "	MSFT_PL			
+1	378		TAs1_e65ol	Test Market		
+1	379		TAs1_tlnu4	Test Market		
+1	380		TAs1_91vp6	Test Market		
+1	381		TAs1_ofdvc	Test Market		
+1	382					
+	383	"[2019, 2020] "	PRES20_VS	2020 U.S. Presidential Election VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2020-u-s-presidential-vote-share-market/	2020 U.S. Presidential Vote Share Market
+	384	"[2019, 2020] "	PRES20_WTA	2020 U.S. Presidential Election WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2020-us-presidential-election-winner-takes-all-market/	2020 US Presidential Election Winner-Takes-All Market
+	385	"[2019, 2020] "	CONGRESS20	2020 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2020-u-s-congressional-control-winner-takes-all-market/	2020 U.S.Congressional Control Winner-Takes-All Market
+	386	"[2019, 2020] "	IntInd	Classroom Returns Markets	https://iemweb.biz.uiowa.edu/iem_prospectus/inter-industry-returns-market/	Inter-Industry Returns Market
+1	387					
+	388	[2020] 	Index	Classroom Returns Markets	https://iemweb.biz.uiowa.edu/iem_prospectus/index-returns-market/	Index Returns Market
+	389	"[2019, 2020] "	SENATE20	2020 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2020-u-s-senate-control-market/	2020 U.S. Senate Control Market
+	390	"[2019, 2020] "	HOUSE20	2020 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2020-u-s-house-control-market/	2020 U.S. House Control Market
+	391	[2020] 	DCONV20	2020 Democratic Convention WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2020-democratic-convention-nomination-wta-market/	2020 Democratic Convention Nomination WTA Market
+1	392		TestMar_c48eh	Test Market		
+1	393		TestMar_vo2dy	Test Market		
+1	394		TestMar_kv5x4	Test Market		
+1	395		TestMar_cbngh	Test Market		
+1	396		TestMar_66rqy	Test Market		
+1	397		TestMar_yyazc	Test Market		
+1	398		TestMar_oogdy	Test Market		
+1	399		TestMar_5v56e	Test Market		
+1	400		TestMar_i12hh	Test Market		
+1	401		TestMar_2qia6	Test Market		
+1	402		TestMar_eaou8	Test Market		
+1	403		TestMar_ifsjd	Test Market		
+1	404		TestMar_e9fbb	Test Market		
+1	405		TestMar_gqyro	Test Market		
+1	406		TestMar_bvg6j	Test Market		
+	407	"[2021, 2022] "	CONGRESS22	2022 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-congressional-control-market/	2022 Congressional Control Market
+	408	"[2021, 2022] "	HOUSE22	2022 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-u-s-house-control-winner-takes-all-market/	2022 U.S. HOUSE CONTROL WINNER-TAKES-ALL MARKET
+	409	"[2021, 2022] "	SENATE22	2022 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-u-s-senate-control-market/	2022 U.S. Senate Control Market
+	410	"[2021, 2022] "	FR22R1_WTA	2022 French Presidential Election Round 1 WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-french-presidential-election-round-1-winner-takes-all-market/	2022 FRENCH PRESIDENTIAL ELECTION ROUND 1 WINNER-TAKES-ALL MARKET
+	411	"[2021, 2022] "	FR22R2_WTA	2022 French Presidential Election Round 2 WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-french-presidential-election-round-2-winner-takes-all-market/	2022 FRENCH PRESIDENTIAL ELECTION ROUND 2 WINNER-TAKES-ALL MARKET
+	412	"[2021, 2022] "	FR22_CAND	2022 French Presidential Election runoff candidates	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-french-presidential-election-runoff-candidates-winner-takes-all-market/	2022 FRENCH PRESIDENTIAL ELECTION RUNOFF CANDIDATES WINNER-TAKES-ALL MARKET
+	413	[2022] 	QUEB22_SS	2022 Quebec General Election	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-quebec-general-election-seat-share-market/	2022 QUEBEC GENERAL ELECTION SEAT SHARE MARKET
+	414	[2022] 	CHAV22_WTA	2022 Chauveau Electoral District WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2022-chauveau-electoral-district-winner-take-all-market/	2022 CHAUVEAU ELECTORAL DISTRICT WINNER-TAKE-ALL MARKET
+	415	"[2023, 2024] "	House24	2024 U.S. House Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-u-s-house-control-winner-takes-all-market/	2024 U.S. House Control Winner-Takes-All Market
+	416	"[2023, 2024] "	Senate24	2024 U.S. Senate Control  WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-u-s-senate-control-winner-takes-all-market/	2024 U.S. Senate Control Winner-Takes-All Market
+	417	"[2023, 2024]"	Congress24	2024 U.S. Congressional Control WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-u-s-congressional-control-winner-takes-all-market/	2024 U.S. Congressional Control Winner-Takes-All Market
+	418	"[2023, 2024] "	DCONV24	2024 Democratic Convention WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-democratic-convention-nomination-market/	2024 Democratic Convention Nomination Market
+	419	"[2023, 2024] "	RCONV24	2024 Republican Convention WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-republican-convention-nomination-market/	2024 Republican Convention Nomination Market
+	420	"[2023, 2024] "	Pres24_VS	2024 U.S. Presidential Election VS	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-u-s-presidential-vote-share-market/	2024 U.S. Presidential Vote Share Market
+	421	"[2023, 2024] "	PRES24_WTA	2024 U.S. Presidential Election WTA	https://iemweb.biz.uiowa.edu/iem_prospectus/2024-u-s-presidential-winner-takes-all-market/	2024 U.S. Presidential Winner-Takes-All Market
+1	422		TestMar_9srqt	Test Market		
